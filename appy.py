@@ -369,7 +369,7 @@ elif seccion == "Contáctenos":
     Puedes comunicarte con nosotros a través de los siguientes medios:
 
     - 📧 Email: contacto@qomi.pe  
-    - 📞 Teléfono: +51 987 654 321  
+    - 📞 Teléfono: +51 947 651 798  
     - 🏢 Dirección: Av. Lima 123, Miraflores, Lima, Perú
 
     También puedes enviarnos un mensaje directo en la sección Ayuda.
