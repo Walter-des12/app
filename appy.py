@@ -204,7 +204,7 @@ else:
 
 hora_actual = datetime.now().replace(second=0, microsecond=0)
 hora_min = (hora_actual + timedelta(minutes=30)).time()
-hora_max = (hora_actual + timedelta(hours=4)).time()
+hora_max = (hora_actual + timedelta(hours=24)).time()
 
 hora_recojo = st.sidebar.time_input(
     "Elige tu hora de recojo",
