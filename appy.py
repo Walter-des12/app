@@ -104,13 +104,13 @@ with st.sidebar:
     st.write(f"👤 Usuario: {st.session_state.usuario}")
 
 tiendas = {
-    "Tienda Tambo": {
+    "Piso 2 cafeteria": {
         "Bebidas": ["Inca Kola", "Chicha Morada", "Emoliente", "Sprite", "Coca-Cola", "Fanta"],
         "Entrantes": ["Ceviche", "Papa a la Huancaína", "Anticuchos"],
         "Novedades": ["Quinoa Salad", "Tacu Tacu Burger"],
         "Ofertas": ["Lomo Saltado", "Ají de Gallina"]
     },
-    "La Cevichería": {
+    "Piso 6 cafeteria": {
         "Bebidas": ["Pisco Sour", "Chicha Morada", "Inca Kola"],
         "Entrantes": ["Ceviche Clasico", "Leche de Tigre"],
         "Principales": ["Arroz con Mariscos", "Tiradito"],
