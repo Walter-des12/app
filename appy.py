@@ -183,7 +183,7 @@ for tienda, categorias in tiendas.items():
                 "nombre": producto,
                 "categoria": categoria,
                 "tienda": tienda,
-                "precio": round(5 + id_counter * 0.7, 2) 
+                "precio": round(1 + id_counter * 0.7, 2) 
             })
             id_counter += 1
 menu_general = pd.DataFrame(menu_general)
